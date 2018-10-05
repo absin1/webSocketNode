@@ -11,7 +11,7 @@ node websocket.js
 ```
 ### Note
 
-I am not sure if this can be even remotely be used in production.
+I am not sure if this can even remotely be used in production.
 
 ### References
 * [Gist](https://gist.github.com/martinsik/2031681) - Basic websocket front and backend
